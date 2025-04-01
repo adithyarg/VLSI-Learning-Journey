@@ -50,7 +50,6 @@ This is the **step-by-step process** of designing a chip.
 |------|------------|
 | `README.md` | Documentation for Day 1 |
 | `VLSI_Flowchart.png` | Flowchart of VLSI Design Flow |
-| `Notes.txt` | Additional learning notes |
 
 ---
 
