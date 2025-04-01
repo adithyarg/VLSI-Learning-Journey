@@ -19,6 +19,10 @@
 ---
 
 ## 📜 VLSI Design Flow
+Design flow, also known as the design methodology, is a systematic approach used in VLSI design to ensure the efficient and effective development of integrated circuits. It provides a structured framework that helps designers navigate through different stages of the design process, from concept to production. The design flow encompasses several steps, including specification, design entry, synthesis, verification, layout, and fabrication.
+
+One of the primary objectives of the design flow is to minimize the design cycle time while maximizing the quality and reliability of the final product. It allows designers to break down the complex VLSI design process into smaller, manageable tasks, enabling them to focus on specific aspects of the design at each stage. By following a well-defined design flow, engineers can streamline the design process, reduce errors, and enhance the overall productivity of the VLSI design team.
+
 This is the **step-by-step process** of designing a chip.
 
 ![VLSI Design Flow](./VLSI_Flowchart.png)
@@ -54,6 +58,11 @@ This is the **step-by-step process** of designing a chip.
 - **VLSI is everywhere** – from processors to IoT devices.
 - The **VLSI design flow is step-by-step** – from **Verilog to Physical Layout**.
 - **Good documentation is important** – Using GitHub helps track progress.
+
+---
+
+## References
+- https://www.maven-silicon.com/blog/what-is-design-flow-in-vlsi/
 
 ---
 
