@@ -1,4 +1,19 @@
+#  VLSI-Learning-Journey
 
+Welcome to my **30-day VLSI Learning Journey**! This repository documents my daily progress as I explore **VLSI Design**, **Verilog**, **Synthesis**, and more.
+
+##  About Me
+
+**Name:** ADITHYA  
+**College:** Sahyadri College of Engineering and Management  
+**Branch:** Electronics and Communication         
+**Year:** 2nd Year         
+**Email:** adithyar.ec23@sahyadri.edu.in / adithyarg14@gmail.com   
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adithyarg?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-rg-74a23b293/)
+
+----------------------------------------------------------------------------------------------------------------
 ## ✅ Goals of This Journey
 - 📖 Learn **VLSI design flow** and **ASIC/FPGA concepts**.
 - 💻 Write **Verilog** code for logic circuits.
