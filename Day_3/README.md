@@ -29,7 +29,7 @@ This project will focus on **D Flip-Flops and a 4-bit Shift Register** implement
 - [`d_flip_flop_tb.v`](d_flip_flop_tb.v) → **Testbench for D Flip-Flop**
 - [`shift_register.v`](shift_register.v) → **4-bit Shift Register Design**
 - [`shift_register_tb.v`](shift_register_tb.v) → **Testbench for Shift Register**
-- [`waveform`](waveforms) → **Screenshot of Simulation Results**
+- [`waveform`](https://github.com/adithyarg/VLSI-Learning-Journey/tree/3c71c5ab0cdc8ab66dfed6e5ce7bf4d24030a30e/Day_3/waveforms) → **Screenshot of Simulation Results**
 
 ---
 
