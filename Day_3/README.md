@@ -91,7 +91,7 @@ endmodule
 ## 📊 Simulation Results
 Below is the waveform generated after running the testbench in **Vivado**:
 
-![Waveform Output](waveform.png)
+![Waveform Output](https://github.com/adithyarg/VLSI-Learning-Journey/blob/7d80819a57dd259c44671cbedf47a09fe77e6cd8/Day_3/waveforms/Screenshot%202025-04-03%20223357.png)
 
 ---
 
