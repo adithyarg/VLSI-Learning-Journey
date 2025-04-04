@@ -91,7 +91,7 @@ Waveform shows the correct output corresponding to each selection line:
 📌 When `sel=10`, output = `in[2]` = 0  
 📌 When `sel=11`, output = `in[3]` = 1  
 
-![Waveform Screenshot](https://github.com/adithyarg/VLSI-Learning-Journey/blob/main/Day_4/waveforms/Screenshot_2025-04-04_mux_output.png)
+![Waveform Screenshot](https://github.com/adithyarg/VLSI-Learning-Journey/blob/6fa36adabe1ca54c46d7fe22259c802c45556dfa/Day_4/waveforms/Screenshot%202025-04-04%20211914.png)
 
 ---
 
