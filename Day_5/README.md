@@ -25,7 +25,7 @@ This project includes the **design**, **testbench**, and **simulation** of a Moo
 ## 📂 Project Files
 - [`traffic_light_controller.v`](traffic_light_controller.v) → FSM Module for Traffic Light
 - [`traffic_light_controller_tb.v`](traffic_light_controller_tb.v) → Testbench Module
-- [`waveform`](waveform/traffic_fsm_waveform.png) → Screenshot of FSM Simulation Output
+- [`waveform`](https://github.com/adithyarg/VLSI-Learning-Journey/blob/53de7038649ce9935c0baafa780f7c8cb1a7f966/Day_5/waveform/Screenshot%202025-04-06%20204119.png) → Screenshot of FSM Simulation Output
 
 ---
 
@@ -124,7 +124,7 @@ Each light stays ON for the correct duration:
 - GREEN: 10 clock cycles
 - YELLOW: 5 clock cycles
 
-![Waveform Screenshot](waveform/traffic_fsm_waveform.png)
+![Waveform Screenshot](https://github.com/adithyarg/VLSI-Learning-Journey/blob/53de7038649ce9935c0baafa780f7c8cb1a7f966/Day_5/waveform/Screenshot%202025-04-06%20204119.png)
 
 ---
 
